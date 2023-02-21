@@ -10,7 +10,7 @@ https://user-images.githubusercontent.com/55801427/220383024-08b19d7d-f724-40fc-
 ## Solution:
 1. Used the MediaPipe library to extract the face landmarks x,y.
 2. Performed preprocessing step to make the model independent of the face position or scale using nomralize data based on position noise.
-3. Trained a regression model using the position of the most important facial landmarks to estimate the values of the pitch, yaw, and roll.
+3. Trained a differnet regression model to estimate the values of the pitch, yaw, and roll.
 4. Used rotation, translation, and projection of the axes on the image to visualize the direction the person is looking at.
 5. Used the values of pitch, yaw, and roll to define the direction.  
 
