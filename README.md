@@ -1,5 +1,4 @@
 # Head-Pose-Estimation
-https://www.youtube.com/watch?v=MLu5EFalvJw
 
 ## Demo:
 https://user-images.githubusercontent.com/55801427/220363279-df5b4c7e-e1dc-4d23-8af5-dc1d02b33d29.mp4
