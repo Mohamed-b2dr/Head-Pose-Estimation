@@ -17,3 +17,7 @@ For this project, the dataset used is <a href=http://www.cbsr.ia.ac.cn/users/xia
 4. Matplotlib
 5. Pandas
 6. Scikit-Learn
+
+## Contributors
+* Mohamed Badr (Me)
+*<a href="https://github.com/mohamedaliELfeky" target="_blank"> Mohamed El-feky</a>
