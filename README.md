@@ -1,9 +1,4 @@
 # Head-Pose-Estimation
-
-## Demo:
-https://user-images.githubusercontent.com/55801427/220364024-0def2868-a9ec-4998-8f4d-4cfdb1d7ff5c.mp4
-
-
 ## Dataset:  
 For this project, the dataset used is <a href=http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/Database/AFLW2000-3D.zip>AFLW2000 Dataset</a>, which consists of 2000 face images, with some information about them like the facial landmarks and the pitch, yaw, and roll values for each picture.
 
