@@ -1,4 +1,10 @@
 # Head-Pose-Estimation
+Used the Media Pipe library to extract the face landmarks x, and y only.
+Performed preprocessing step to make the model independent of the face position or scale using normalized data based
+on position noise.
+Trained a different regression model to estimate the values of the pitch, yaw, and roll.
+Used rotation, translation, and projection of the axes on the image to visualize the direction the person islooking at.
+Used the values of pitch, yaw, and roll to define the direction.
 ## Dataset:  
 For this project, the dataset used is <a href=http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/Database/AFLW2000-3D.zip>AFLW2000 Dataset</a>, which consists of 2000 face images, with some information about them like the facial landmarks and the pitch, yaw, and roll values for each picture.
 
